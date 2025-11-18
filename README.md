@@ -53,4 +53,4 @@ npm run dev
 v1.0 - Released January 28, 2025
 
 ## 📱 Contact me
-Feel free to reach out on [Telegram](https://t.me/plzbugmenot) for support or questions! 🤝
+Feel free to reach out on [Telegram](https://t.me/wsol12) for support or questions! 🤝
